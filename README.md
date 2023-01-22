@@ -1,5 +1,5 @@
 In this project, we will build a fake news classifier, to classify fake news using supervised learning with NLP.
-The datset used in this project is downloaded from the DataCamp online learning platform.
+The dataset used in this project is downloaded from the DataCamp online learning platform.
 
 Steps involed:
 
